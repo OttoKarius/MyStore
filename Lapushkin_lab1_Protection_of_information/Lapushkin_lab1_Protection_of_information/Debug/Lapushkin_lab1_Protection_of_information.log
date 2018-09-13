@@ -1,0 +1,5 @@
+﻿  Lapushkinlab1Protectionofinformation.cpp
+c:\users\1\source\repos\lapushkin_lab1_protection_of_information\lapushkin_lab1_protection_of_information\lapushkinlab1protectionofinformation.cpp(101): warning C4552: -: оператор не имеет результата; требуется оператор с побочным действием
+c:\users\1\source\repos\lapushkin_lab1_protection_of_information\lapushkin_lab1_protection_of_information\lapushkinlab1protectionofinformation.cpp(154): warning C4552: -: оператор не имеет результата; требуется оператор с побочным действием
+  Lapushkin_lab1_Protection_of_information.vcxproj -> C:\Users\1\source\repos\Lapushkin_lab1_Protection_of_information\Debug\Lapushkin_lab1_Protection_of_information.exe
+  Lapushkin_lab1_Protection_of_information.vcxproj -> C:\Users\1\source\repos\Lapushkin_lab1_Protection_of_information\Debug\Lapushkin_lab1_Protection_of_information.pdb (Partial PDB)
